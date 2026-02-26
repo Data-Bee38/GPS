@@ -1,5 +1,5 @@
-**Browser-Based GPS Navigation App**
-A lightweight, real-time navigation system built with Leaflet and OpenStreetMap, delivering modern GPS functionality directly in the browser — no native app required.
+# Browser-Based GPS Navigation App
+## A lightweight, real-time navigation system built with Leaflet and OpenStreetMap, delivering modern GPS functionality directly in the browser — no native app required.
 
 **✨ Features**
 
@@ -48,7 +48,7 @@ A lightweight, real-time navigation system built with Leaflet and OpenStreetMap,
 - **Nominatim** – Geocoding service
 
 **🚀 How It Works**
-<b>1.</b> User enters a starting and destination address.
+1. User enters a starting and destination address.
 2. Addresses are geocoded using Nominatim.
 3. Route data is fetched from the OSRM routing service.
 4. Route polyline is rendered on the map.
