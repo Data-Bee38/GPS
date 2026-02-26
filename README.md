@@ -1,5 +1,5 @@
 # Browser-Based GPS Navigation App
-## A lightweight, real-time navigation system built with Leaflet and OpenStreetMap, delivering modern GPS functionality directly in the browser — no native app required.
+A lightweight, real-time navigation system built with Leaflet and OpenStreetMap, delivering modern GPS functionality directly in the browser — no native app required.
 
 **✨ Features**
 
