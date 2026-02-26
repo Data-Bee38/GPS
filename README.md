@@ -4,48 +4,48 @@ A lightweight, real-time navigation system built with Leaflet and OpenStreetMap,
 **✨ Features**
 
 **🗺 Interactive Mapping**
--Dynamic route rendering
--Responsive bottom navigation panel
--Custom route styling
--Recenter map functionality
+- Dynamic route rendering
+- Responsive bottom navigation panel
+- Custom route styling
+- Recenter map functionality
 
 **🚦 Turn-by-Turn Navigation**
--Step-by-step maneuver instructions
--Cleaned & merged routing steps
--Active maneuver header
--Navigation lifecycle management
+- Step-by-step maneuver instructions
+- Cleaned & merged routing steps
+- Active maneuver header
+- Navigation lifecycle management
 
 **📍 Live GPS Tracking**
--Real-time user location updates
--Continuous route progress monitoring
--Smart rerouting support
--Smooth map recentering
+- Real-time user location updates
+- Continuous route progress monitoring
+- Smart rerouting support
+- Smooth map recentering
 
 **⏱ Live ETA Engine**
--Remaining distance calculation
--Real-time arrival updates
--Smart duration formatting (hrs/min)
--Miles conversion
--Time zone–aware arrival time display
+- Remaining distance calculation
+- Real-time arrival updates
+- Smart duration formatting (hrs/min)
+- Miles conversion
+- Time zone–aware arrival time display
 
 **🌎 Time Zone Intelligence**
--Automatic destination time zone detection
--DST-aware ETA formatting
--Time zone abbreviation display (PST, MST, etc.)
--“X hours ahead/behind” alert system
+- Automatic destination time zone detection
+- DST-aware ETA formatting
+- Time zone abbreviation display (PST, MST, etc.)
+- “X hours ahead/behind” alert system
 
 **📱 Mobile-Optimized UX**
--Keyboard-triggered route search (Enter key)
--Auto keyboard dismissal on mobile
--Map-centered loading spinner overlay
--Responsive UI design
+- Keyboard-triggered route search (Enter key)
+- Auto keyboard dismissal on mobile
+- Map-centered loading spinner overlay
+- Responsive UI design
 
 **🛠 Built With**
--**Leaflet.js** – Interactive maps
--**OpenStreetMap** – Map tile data
--**OSRM Routing API** – Route calculations
--**Vanilla JavaScript** – Core logic
--**Nominatim** – Geocoding service
+- **Leaflet.js** – Interactive maps
+- **OpenStreetMap** – Map tile data
+- **OSRM Routing API** – Route calculations
+- **Vanilla JavaScript** – Core logic
+- **Nominatim** – Geocoding service
 
 **🚀 How It Works**
 **1.** User enters a starting and destination address.
@@ -57,18 +57,18 @@ A lightweight, real-time navigation system built with Leaflet and OpenStreetMap,
 **7.** Live GPS tracking updates distance and progress.
 
 **🧠 Technical Highlights**
--Promise-based geocoding and routing flow
--Cleaned maneuver merging logic
--Dynamic panel height adjustments
--Custom map markers
--Overlay-based loading system
--Time zone comparison engine
--Real-time ETA recalculation loop
+- Promise-based geocoding and routing flow
+- Cleaned maneuver merging logic
+- Dynamic panel height adjustments
+- Custom map markers
+- Overlay-based loading system
+- Time zone comparison engine
+- Real-time ETA recalculation loop
 
 **Notes**
--Uses public routing and geocoding services (rate limits may apply).
--GPS functionality requires browser location permission.
--Best tested in modern Chrome and Safari browsers.
+- Uses public routing and geocoding services (rate limits may apply).
+- GPS functionality requires browser location permission.
+- Best tested in modern Chrome and Safari browsers.
 
 **License**
 MIT License — Free to use and modify.
