@@ -3,7 +3,7 @@ A lightweight, real-time navigation system built with Leaflet and OpenStreetMap,
 
 ![screenshot](screenshot.jpg)
 
-**✨ Features**
+## ✨ Features
 
 **🗺 Interactive Mapping**
 - Dynamic route rendering
